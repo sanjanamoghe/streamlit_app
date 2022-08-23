@@ -7,3 +7,5 @@ streamlit.text('🐔 Chicken salad')
 streamlit.text('🐔 Egg White Omlette')
 streamlit.text('🥗 Caesar salad')
 streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
